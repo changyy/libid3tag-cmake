@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project (libexif)
+project (libid3tag)
 
 if (DEFINED CMAKE_TOOLCHAIN_FILE)
 	message("Include Cross Platform cmake: " ${CROSS_PLATFORM_CMAKE})
